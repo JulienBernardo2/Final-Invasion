@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SplashScreen
+comment0.text=\r\n\ It\ is\ the\ splash\ screen\ for\ our\ game\r\n\ @author\ (Julien,\ Phuc)\ \r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=SplashScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SplashScreen.\r\n
+comment2.params=message\ x\ y\ size
+comment2.target=void\ showTextWithRedFont(java.lang.String,\ int,\ int,\ int)
+comment2.text=\r\n\ Shows\ text\ on\ the\ screen\ with\ Red\ font\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Sets\ up\ the\ timer\ to\ transition\ to\ the\ next\ screen\r\n
+numComments=4

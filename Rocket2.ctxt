@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Rocket2
+comment0.text=\r\n\ This\ rocket\ is\ for\ Level\ 3\ so\ buck\ could\ get\ to\ the\ final\ level\r\n\ @author\ (Julien,\ Phuc)\ \r\n\ @version\ (2)\r\n
+comment1.params=
+comment1.target=Rocket2()
+comment1.text=\r\n\ Setting\ the\ height\r\n
+comment2.params=width\ height
+comment2.target=Rocket2(int,\ int)
+comment2.text=\r\n\ Rocket\ constructor\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ This\ is\ Everything\ that\ the\ Rocket\ can\ do\r\n
+numComments=4

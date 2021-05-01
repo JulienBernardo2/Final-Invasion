@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BackButton
+comment0.text=\r\n\ This\ button\ is\ to\ go\ back\ to\ the\ title\ screen\r\n\ from\ the\ story\ or\ controls\ screen\r\n\ @author\ (Julien,\ Phuc)\ \r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ is\ Everything\ that\ the\ Back\ Button\ can\ do\r\n
+numComments=2

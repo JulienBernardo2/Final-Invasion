@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AlienFlipped
+comment0.text=\r\n\ This\ is\ a\ different\ version\ of\ the\ alien\ which\ moves\ right\ to\ left\ instead\r\n\ of\ randomly\ and\ is\ meant\ to\ be\ the\ main\ enemy\ for\ Buck\r\n\ @author\ (Julien,\ Phuc)\ \r\n\ @version\ (4)\ \r\n
+comment1.params=
+comment1.target=AlienFlipped()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ AlienFlipped\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Everything\ which\ the\ Alien\ can\ do\r\n
+comment3.params=
+comment3.target=void\ killBuck()
+comment3.text=\r\n\ Lets\ the\ alien\ Kill\ the\ Buck\ actor\r\n
+comment4.params=
+comment4.target=void\ killBunkerBuck()
+comment4.text=\r\n\ Lets\ the\ alien\ Kill\ the\ BunkeyBuck\ actor\r\n
+comment5.params=
+comment5.target=void\ moveAround()
+comment5.text=\r\n\ Lets\ the\ Alien\ move\ around\ the\ world\ from\ right\ to\ left\r\n
+numComments=6

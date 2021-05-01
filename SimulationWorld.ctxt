@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SimulationWorld
+comment0.text=\r\n\ This\ World\ is\ meant\ to\ control\ the\ music\ tansitions\ between\ worlds.\r\n\ @author\ (Julien,\ Phuc)\ \r\n\ @version\ (6)\r\n
+comment1.params=musicFile\ windowWidth\ windowHeight
+comment1.target=SimulationWorld(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ started()
+comment3.params=
+comment3.target=void\ stopped()
+comment4.params=
+comment4.target=greenfoot.GreenfootSound\ getMusic()
+comment5.params=newMusic
+comment5.target=void\ setMusic(greenfoot.GreenfootSound)
+comment6.params=newWorld
+comment6.target=void\ transitionToWorld(SimulationWorld)
+numComments=7

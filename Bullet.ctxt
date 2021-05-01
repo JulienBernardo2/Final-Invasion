@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ The\ bullets\ which\ the\ actor\ shoots\r\n\ @author\ (Julien,\ Phuc)\r\n
+comment1.params=
+comment1.target=Bullet()
+comment1.text=\r\n\ Bullet\ contructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Sets\ up\ what\ the\ Bullet\ will\ be\ able\ to\ do\r\n
+comment3.params=
+comment3.target=void\ checkWin()
+comment3.text=\r\n\ Checks\ if\ the\ Rocket\ has\ killed\ enough\ AlienSpaceships\ to\ win\r\n
+numComments=4

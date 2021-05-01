@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Aliens
+comment0.text=\r\n\ This\ version\ of\ the\ alien\ moves\ in\ any\ direction\ randomly\ and\ is\ meant\ to\ be\ the\r\n\ main\ enemy\ of\ Buck\ \r\n\ @author\ (Julien,\ Phuc)\ \r\n\ @version\ (4)\r\n
+comment1.params=
+comment1.target=Aliens()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Alien\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Everything\ which\ the\ Alien\ can\ do\r\n
+comment3.params=
+comment3.target=void\ killBuck()
+comment3.text=\r\n\ Lets\ the\ alien\ Kill\ the\ Buck\ actor\r\n
+comment4.params=
+comment4.target=void\ killBunkerBuck()
+comment4.text=\r\n\ Lets\ the\ alien\ Kill\ the\ BunkeyBuck\ actor\r\n
+comment5.params=
+comment5.target=void\ moveAround()
+comment5.text=\r\n\ Lets\ the\ Alien\ move\ around\ the\ world\ in\ any\ direction\ randomly\r\n
+numComments=6

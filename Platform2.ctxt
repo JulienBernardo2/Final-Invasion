@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Platform2
+comment0.text=\r\n\ This\ is\ the\ second\ platform\ for\ Buck\ to\ stand\ on\ in\ every\ level\ except\ level\ 13\r\n\ @author\ (Julien,\ Phuc)\ \r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=Platform2()
+comment1.text=\r\n\ Setting\ the\ height\r\n
+comment2.params=width\ height
+comment2.target=Platform2(int,\ int)
+comment2.text=\r\n\ Platform2\ costructor\r\n
+numComments=3

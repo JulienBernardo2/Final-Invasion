@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Level2
+comment0.text=\r\n\ This\ is\ the\ world\ where\ Buck\ must\ reach\ his\ bunker\r\n\ @author\ (Julien,\ Phuc)\ \r\n\ @version\ (6)\r\n
+comment1.params=
+comment1.target=Level2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Level2.\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ It\ creates\ the\ objects\ at\ start\ of\ the\ world\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ We\ set\ up\ a\ timer\ for\ the\ amount\ of\ time\ left\ for\ the\ world\ and\r\n\ also\ transitions\ to\ the\ next\ screen\ when\ the\ timer\ is\ up\r\n
+numComments=4

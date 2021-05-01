@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AlienSpaceship
+comment0.text=\r\n\ The\ AlienSpaceship\ is\ meant\ to\ try\ and\ crash\ into\ buck\ and\ kill\ him\r\n\ @author\ (Julien,\ Phuc)\r\n\ version\ (3)\r\n
+comment1.params=placement
+comment1.target=AlienSpaceship(int)
+comment1.text=\r\n\ AlienSpaceship\ constructor\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Sets\ up\ what\ the\ AlienSpaceships\ will\ be\ able\ to\ do\r\n
+comment3.params=
+comment3.target=void\ collisionDetection()
+comment3.text=\r\n\ Checks\ if\ their\ was\ a\ collision\ with\ the\ rocket,\ if\ so\r\n\ they\ both\ die\r\n
+numComments=4
