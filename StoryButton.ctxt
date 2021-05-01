@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StoryButton
+comment0.text=\r\n\ This\ button\ is\ to\ go\ from\ the\ title\ screen\ to\ the\ Story\ screen\ \r\n\ @author\ (Julien,\ Phuc)\ \r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ is\ Everything\ that\ the\ Story\ Button\ can\ do\r\n
+numComments=2

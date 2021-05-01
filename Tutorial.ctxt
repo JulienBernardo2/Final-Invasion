@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Tutorial
+comment0.text=\r\n\ This\ is\ the\ tutorial\ to\ help\ the\ player\ learn\ how\ to\ play\r\n\ @author\ (Julien,\ Phuc)\ \r\n\ @version\ (5)\r\n
+comment1.params=
+comment1.target=Tutorial()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tutorial.\r\n
+comment2.params=message\ x\ y\ size\ color
+comment2.target=void\ showText(java.lang.String,\ int,\ int,\ int,\ greenfoot.Color)
+comment2.text=\r\n\ Shows\ text\ on\ the\ screen\ with\ Green\ font\r\n
+comment3.params=
+comment3.target=void\ prepare()
+comment3.text=\r\n\ It\ creates\ the\ objects\ at\ start\ of\ the\ world\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ If\ the\ player\ presses\ "space"\ he\ will\ transition\ to\ the\ next\ world\r\n
+numComments=5

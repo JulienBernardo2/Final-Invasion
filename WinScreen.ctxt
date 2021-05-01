@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WinScreen
+comment0.text=\r\n\ When\ you\ win\ the\ last\ level\ this\ win\ screen\ appears\r\n\ @author\ (Julien,\ Phuc)\ \r\n\ @version\ (3)\r\n
+comment1.params=
+comment1.target=WinScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WinScreen\r\n
+comment2.params=message\ x\ y\ size
+comment2.target=void\ showTextWithGreenFont(java.lang.String,\ int,\ int,\ int)
+comment2.text=\r\n\ Shows\ text\ on\ the\ screen\ with\ Green\ font\r\n
+comment3.params=message\ x\ y\ size
+comment3.target=void\ showTextWithWhiteFont(java.lang.String,\ int,\ int,\ int)
+comment3.text=\r\n\ Shows\ text\ on\ the\ screen\ with\ White\ font\r\n
+comment4.params=
+comment4.target=void\ prepare()
+comment4.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=5
